@@ -2,6 +2,8 @@
 Button Floating in React Native
 [react-native-action-button](https://github.com/mastermoo/react-native-action-button)
 
+![buttonfloating](https://camo.githubusercontent.com/0d71fda546fc0aabd5b9e6fa0ea0934dace2c085/687474703a2f2f692e67697068792e636f6d2f3236426b4d69723949634168716534454d2e676966)
+
 # Install
 ```
 npm i react-native-action-button --save
